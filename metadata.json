@@ -1,0 +1,8 @@
+{
+  "name": "DataBiz Hub",
+  "description": "All-in-one Business Management & Analytics OS for Freelance Data Analysts and BI Consultants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
